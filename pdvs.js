@@ -27,49 +27,49 @@ let pdvsJson = [
         name: 'PDV 5',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.135:9898/normal.html'
+        link: 'http://192.168.24.135:9898/normal.html'
     },
     {
         name: 'PDV 6',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.104:9898/normal.html'
+        link: 'http://192.168.24.104:9898/normal.html'
     },
     {
         name: 'PDV 7',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.109:9898/normal.html'
+        link: 'http://192.168.24.109:9898/normal.html'
     },
     {
         name: 'PDV 8',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.115:9898/normal.html'
+        link: 'http://192.168.24.115:9898/normal.html'
     },
     {
         name: 'PDV 9',
         descripion:'Drive',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.137:9898/normal.html'
+        link: 'http://192.168.24.137:9898/normal.html'
     },
     {
         name: 'PDV 10',
         descripion:'Drive',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.110:9898/normal.html'
+        link: 'http://192.168.24.110:9898/normal.html'
     },
     {
         name: 'PDV 11',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.101:9898/normal.html'
+        link: 'http://192.168.24.101:9898/normal.html'
     },
     {
         name: 'PDV 12',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.119:9898/normal.html'
+        link: 'http://192.168.24.119:9898/normal.html'
     },
     {
         name: 'PDV 13',
