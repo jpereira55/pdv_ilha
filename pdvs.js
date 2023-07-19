@@ -27,139 +27,127 @@ let pdvsJson = [
         name: 'PDV 5',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.135:9898/normal.html'
+        link: 'http://192.168.24.139:9898/normal.html'
     },
     {
         name: 'PDV 6',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.104:9898/normal.html'
+        link: 'http://192.168.24.178:9898/normal.html'
     },
     {
         name: 'PDV 7',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.109:9898/normal.html'
+        link: 'http://192.168.24.169:9898/normal.html'
     },
     {
         name: 'PDV 8',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.115:9898/normal.html'
+        link: 'http://192.168.24.107:9898/normal.html'
     },
     {
         name: 'PDV 9',
-        descripion:'Drive',
+        descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.137:9898/normal.html'
+        link: 'http://192.168.24.211:9898/normal.html'
     },
     {
         name: 'PDV 10',
-        descripion:'Drive',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.24.110:9898/normal.html'
-    },
-    {
-        name: 'PDV 11',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
         link: 'http://192.168.24.101:9898/normal.html'
     },
     {
+        name: 'PDV 11',
+        descripion:'Frente de Loja',
+        img: 'imagens/1.jpg',
+        link: 'http://192.168.24.105:9898/normal.html'
+    },
+    {
         name: 'PDV 12',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.24.119:9898/normal.html'
+        link: 'http://192.168.24.102:9898/normal.html'
     },
     {
         name: 'PDV 13',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.126:9898/normal.html'
+        link: 'http://192.168.24.128:9898/normal.html'
     },
     {
         name: 'PDV 14',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.138:9898/normal.html'
+        link: 'http://192.168.24.114:9898/normal.html'
     },
     {
         name: 'PDV 15',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.105:9898/normal.html'
+        link: 'http://192.168.24.109:9898/normal.html'
     },
     {
         name: 'PDV 16',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.114:9898/normal.html'
+        link: 'http://192.168.24.119:9898/normal.html'
     },
     {
         name: 'PDV 17',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.117:9898/normal.html'
+        link: 'http://192.168.24.96:9898/normal.html'
     },
     {
         name: 'PDV 18',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.123:9898/normal.html'
+        link: 'http://192.168.24.115:9898/normal.html'
     },
     {
         name: 'PDV 19',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.103:9898/normal.html'
+        link: 'http://192.168.24.121:9898/normal.html'
     },
     {
         name: 'PDV 20',
         descripion:'Frente de Loja',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.112:9898/normal.html'
+        link: 'http://192.168.24.165:9898/normal.html'
     },
     {
         name: 'PDV 21',
-        descripion:'Frente de Loja',
+        descripion:'ELETRO',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.121:9898/normal.html'
+        link: 'http://192.168.24.108:9898/normal.html'
     },
     {
         name: 'PDV 22',
-        descripion:'Frente de Loja',
+        descripion:'ELETRO',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.116:9898/normal.html'
+        link: 'http://192.168.24.160:9898/normal.html'
     },
     {
         name: 'PDV 23',
-        descripion:'Frente de Loja',
+        descripion:'LANCHONETE',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.134:9898/normal.html'
+        link: 'http://192.168.24.61:9898/normal.html'
     },
     {
         name: 'PDV 24',
-        descripion:'ELETRO',
+        descripion:'LANCHONETE',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.124:9898/normal.html'
+        link: 'http://192.168.24.103:9898/normal.html'
     },
     {
         name: 'PDV 25',
-        descripion:'ELETRO',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.31.125:9898/normal.html'
-    },
-    {
-        name: 'PDV 26',
         descripion:'LANCHONETE',
         img: 'imagens/1.jpg',
-        link: 'http://192.168.31.144:9898/normal.html'
-    },
-    {
-        name: 'PDV 27',
-        descripion:'LANCHONETE',
-        img: 'imagens/1.jpg',
-        link: 'http://192.168.31.127:9898/normal.html'
+        link: 'http://192.168.24.126:9898/normal.html'
     },
     
 ];
